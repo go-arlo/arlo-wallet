@@ -1,5 +1,7 @@
 # Arlo Multisig Wallet SDK
 
+![Project Status](https://img.shields.io/badge/status-draft-orange)
+
 > 🚧 This project is currently in draft mode and not ready for use. Expect breaking changes. 🚧
 
 An open-source TypeScript SDK for creating multi-signature wallets on Solana that support AI agents as signatories. This SDK allows for flexible integration with AI agents from various frameworks and provides robust features for transaction approvals, budget allocations, and customizable thresholds for AI and human signatories.
