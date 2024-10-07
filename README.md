@@ -1,4 +1,4 @@
-# Go Arlo MultisigWallet SDK
+# Arlo Multisig Wallet SDK
 
 An open-source TypeScript SDK for creating multi-signature wallets on Solana that support AI agents as signatories. This SDK allows for flexible integration with AI agents from various frameworks and provides robust features for transaction approvals, budget allocations, and customizable thresholds for AI and human signatories.
 
